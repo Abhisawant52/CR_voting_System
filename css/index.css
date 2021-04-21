@@ -1,0 +1,31 @@
+.headerr{
+  border: 1;
+  clear:both;
+  display:block;
+  width: 96%;               
+  background-color:#FFFF00;
+  height: 1px;
+}
+  #circle {
+            width: 200px;
+            height: 200px;
+            border-radius:200px;
+            background-color: 0099ff;
+			text-align:center;
+  }
+  
+.title{
+	color:003366;
+	text-align:right;
+	padding-right:40px;
+	padding-top:30px;
+}
+.footer{
+	text-align:center;
+}
+.btn1{
+	background:none;
+	border:none;
+	margin-left:120px;
+}
+
