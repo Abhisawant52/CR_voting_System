@@ -156,7 +156,7 @@ else{ ?>
 } ?>
 <br><form method="post" action="../index.php" class="text-center"> 
 
-<button type="submit" name="done" value="submit" class="btn btn-success">Done</button>
+<button type="submit" name="done" value="submit" class="btn btn-success">EXIT</button>
 </form>
 
 </div>
